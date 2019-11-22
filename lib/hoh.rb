@@ -33,10 +33,11 @@ def naming_system
 
 portion_1 = {
    :label => "Kingdom",
-    :sub_cagtegory => {
+    :sub_category => {
       :label => "Phylum",
       :sub_category => {
         :label => "Class",
+        :sub_category => {
         :label => "Order"
         }
       }
