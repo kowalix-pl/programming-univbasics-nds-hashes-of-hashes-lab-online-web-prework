@@ -42,7 +42,7 @@ portion_1 = {
         }
       }
     }
-
+}
 
   # Remember:
   #  Kingdom
