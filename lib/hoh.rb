@@ -40,7 +40,7 @@ portion_1 = {
         }
       }
     }
-naming_syste[:sub_category][:sub_category][:sub_category][:label]= "Order"
+naming_system[:sub_category][:sub_category][:sub_category][:label]= "Order"
 
   # Remember:
   #  Kingdom
