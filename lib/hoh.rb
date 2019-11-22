@@ -41,8 +41,6 @@ portion_1 = {
       }
     }
 
-
- end
   # Remember:
   #  Kingdom
   #  Phylum
