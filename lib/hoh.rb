@@ -13,7 +13,6 @@
 #     }
 #   }
 # }
-# 
 # PORTION_2 = {
 #   label: "Order"
 # }
@@ -30,7 +29,19 @@
 #   sub_category: nil
 # }
 
-def naming_system
+def naming_system 
+
+portion_1 = {
+   :label => "Kingdom",
+    :sub_cagtegory => {
+      :label => "Phylum",
+      :sub_category => {
+        :label => "Class",
+        }
+      }
+    }
+   starting_node = naming_system
+   starting_node[:sub_category][:sub_category][:sub_category][:label] = "Order"
   # Remember:
   #  Kingdom
   #  Phylum
