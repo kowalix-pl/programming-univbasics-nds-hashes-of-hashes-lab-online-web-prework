@@ -38,7 +38,12 @@ portion_1 = {
       :sub_category => {
         :label => "Class",
         :sub_category => {
-        :label => "Order"
+          :label => "Order",
+          :sub_category => {
+            :sub_category => {
+              :label => "Genus"
+            }
+          }
         }
       }
     }
