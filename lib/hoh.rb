@@ -43,7 +43,7 @@ portion_1 = {
             :sub_category => {
               :label => "Genus",
               :sub_category => {
-                :labeel => "Species"
+                :label => "Species"
               }
             }
           }
